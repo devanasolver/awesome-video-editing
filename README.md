@@ -297,3 +297,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words,
 ## About
 
 Maintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING.
+
+
+
+## Sponsor me
+
+If this list is useful, [buy me a coffee](https://buymeacoffee.com/isaac49).
