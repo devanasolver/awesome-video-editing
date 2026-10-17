@@ -1,0 +1,49 @@
+{
+ "tile_words": [
+  "FFMPEG",
+  "TIMELINE",
+  "KEYFRAME",
+  "CODEC",
+  "H.264",
+  "LUT",
+  "SRT",
+  "WHISPER",
+  "SKILL.md",
+  "RENDER",
+  "CUT",
+  "B-ROLL",
+  "CAPTIONS",
+  "FONTS",
+  "SFX",
+  "MUSIC",
+  "FOOTAGE",
+  "LICENSE",
+  "CC0",
+  "MLT"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Video",
+  "Editing"
+ ],
+ "title_size": 104,
+ "sub1": "EDITORS  |  TOOLS  |  AGENT SKILLS",
+ "sub2": "FOOTAGE  |  MUSIC  |  SFX  |  FONTS",
+ "foot": "Open-source projects and free-to-use assets, each linked to its license"
+}

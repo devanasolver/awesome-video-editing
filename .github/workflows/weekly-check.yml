@@ -1,0 +1,36 @@
+name: Weekly check
+on:
+  schedule:
+    - cron: "29 3 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild README must match data
+        run: |
+          python scripts/build_readme.py
+          git diff --exit-code README.md
+      - name: Link check
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-concurrency 4 --accept 200,429 --exclude 'img.shields.io' README.md
+          fail: false
+      - name: Repo health report
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/check_repos.py | tee report.md
+          python scripts/check_assets.py | tee -a report.md
+      - name: Open issue if something needs a look
+        if: ${{ hashFiles('report.md') != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if ! grep -q "All repos OK" report.md || grep -q "need a look" report.md; then
+            gh issue create --title "Weekly check: repos need a look ($(date +%F))" --body-file report.md
+          fi

@@ -1,0 +1,690 @@
+[
+  {
+    "repo": "mltframework/shotcut",
+    "category": "edit",
+    "description": "Cross-platform desktop editor built on the MLT framework. Timeline, filters and many formats.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "KDE/kdenlive",
+    "category": "edit",
+    "description": "Free desktop editor from KDE, built on MLT. Multi-track timeline, proxies, effects.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "OpenShot/openshot-qt",
+    "category": "edit",
+    "description": "Easy desktop editor for Linux, Mac and Windows, built on the libopenshot library.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "jliljebl/flowblade",
+    "category": "edit",
+    "description": "Multitrack non-linear editor for Linux, built on MLT.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "pitivi/pitivi",
+    "category": "edit",
+    "description": "GNOME video editor. This is the GitHub mirror of the GNOME GitLab repo.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "mifi/lossless-cut",
+    "category": "edit",
+    "description": "Cut and trim video and audio without re-encoding. Fast for quick fixes.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "OpenCut-app/OpenCut",
+    "category": "edit",
+    "description": "Open-source CapCut-style editor.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "storytold/filmcraft",
+    "category": "edit",
+    "description": "Non-linear video editor written from scratch in Rust.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "AIEraDev/Clypra",
+    "category": "edit",
+    "description": "Hardware-accelerated desktop editor built with Rust, Tauri and React.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "zhouxiaoka/autoclip",
+    "category": "edit",
+    "description": "Desktop tool that cuts long videos (podcasts, interviews, courses) into short clips with subtitles. Docs are mostly Chinese.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "WyattBlue/auto-editor",
+    "category": "edit",
+    "description": "Command-line tool that cuts out silence and dull parts automatically.",
+    "license": "Unlicense",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "0xsline/OpenChatCut",
+    "category": "edit",
+    "description": "Local-first video editor with a multi-track timeline that you can drive by chat. Ships agent skills.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "krillinai/OpenCreator",
+    "category": "edit",
+    "description": "Video translation and dubbing workspace for creators (formerly KrillinAI).",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "remotion-dev/remotion",
+    "category": "code",
+    "description": "Make videos with React. Source-available: free for individuals and small teams, company license for larger for-profit teams.",
+    "license": "Remotion License",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "midrender/revideo",
+    "category": "code",
+    "description": "Create videos with code, in TypeScript.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-15"
+  },
+  {
+    "repo": "motion-canvas/motion-canvas",
+    "category": "code",
+    "description": "Animate with TypeScript generators and preview in a browser editor.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-02"
+  },
+  {
+    "repo": "heygen-com/hyperframes",
+    "category": "code",
+    "description": "Write HTML, render video. Built so agents can author scenes.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "dmtrKovalenko/fframes",
+    "category": "code",
+    "description": "Programmatic video rendering framework focused on speed.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Zulko/moviepy",
+    "category": "code",
+    "description": "Video editing with Python scripts: cuts, concatenation, titles and effects.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-26"
+  },
+  {
+    "repo": "ManimCommunity/manim",
+    "category": "code",
+    "description": "Community edition of the Python engine for math and explainer animations.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "3b1b/manim",
+    "category": "code",
+    "description": "The original manim by Grant Sanderson, used for his math videos.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-09"
+  },
+  {
+    "repo": "diffusionstudio/core",
+    "category": "code",
+    "description": "Browser video compositing engine built on WebCodecs.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2025-11-18"
+  },
+  {
+    "repo": "ffmpegwasm/ffmpeg.wasm",
+    "category": "code",
+    "description": "FFmpeg compiled to WebAssembly so you can process video in the browser.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-29"
+  },
+  {
+    "repo": "remotion-dev/skills",
+    "category": "skills",
+    "description": "Official agent skills for Remotion (12 SKILL.md files).",
+    "license": "none",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "calesthio/OpenMontage",
+    "category": "skills",
+    "description": "Agentic video production system with 144 SKILL.md files and many tools.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "WhiteTowerAI/cut-as-code",
+    "category": "skills",
+    "description": "Agentic video editing skills (11 SKILL.md files), pitched as an open alternative to clip tools.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-07"
+  },
+  {
+    "repo": "Vincentwei1021/video-shotcraft",
+    "category": "skills",
+    "description": "Skill for Claude Code and Codex that builds product videos with Remotion from shot recipe cards.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Vincentwei1021/video-talkcraft",
+    "category": "skills",
+    "description": "Skill for voice-over-driven explainer videos in a motion-design style.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "Vincentwei1021/anything2explainer",
+    "category": "skills",
+    "description": "Skill that turns a topic into a narrated explainer video.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-18"
+  },
+  {
+    "repo": "howseen-ai/claude-motion-design",
+    "category": "skills",
+    "description": "Skill for motion design videos in pure code: HTML, Playwright and ffmpeg.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-04"
+  },
+  {
+    "repo": "pycodebr/heditor",
+    "category": "skills",
+    "description": "Skill for vertical video editing with named styles. Works with Claude Code, Codex, Cursor and others.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "kurbaitaev/ghost-editor",
+    "category": "skills",
+    "description": "Skill for talking-head reels: captions, motion scenes and style presets.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "kmilo93sd/agent-video-editor",
+    "category": "skills",
+    "description": "Editing judgment for agents: pacing, cuts, captions, audio, color and thumbnails.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-04"
+  },
+  {
+    "repo": "konradre/video-production-skills",
+    "category": "skills",
+    "description": "Skills for making video from generated footage, from pre-production to finishing (15 SKILL.md files).",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "Maciejdziuba/youtube-skills",
+    "category": "skills",
+    "description": "Small collection of skills for YouTube production, editing and motion graphics.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-16"
+  },
+  {
+    "repo": "openai/whisper",
+    "category": "speech",
+    "description": "The original speech recognition model. Output can be turned into subtitles.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-31"
+  },
+  {
+    "repo": "SYSTRAN/faster-whisper",
+    "category": "speech",
+    "description": "Whisper re-implemented with CTranslate2. Much faster on the same hardware.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "ggml-org/whisper.cpp",
+    "category": "speech",
+    "description": "Whisper in plain C/C++. Runs fast on CPU without Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "m-bain/whisperX",
+    "category": "speech",
+    "description": "Whisper with word-level timestamps and speaker labels. Good for caption timing.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-26"
+  },
+  {
+    "repo": "SubtitleEdit/subtitleedit",
+    "category": "speech",
+    "description": "Subtitle editor for Windows with sync tools, OCR and many formats.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "smacke/ffsubsync",
+    "category": "speech",
+    "description": "Automatically syncs subtitle files to the video.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-24"
+  },
+  {
+    "repo": "modelscope/FunClip",
+    "category": "speech",
+    "description": "Transcribes video, makes subtitles and clips by text selection. Local web UI.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "OHF-Voice/piper1-gpl",
+    "category": "speech",
+    "description": "Fast local neural text-to-speech engine for voice-overs. GPL.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "resemble-ai/chatterbox",
+    "category": "speech",
+    "description": "Open-source text-to-speech model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-21"
+  },
+  {
+    "repo": "idiap/coqui-ai-TTS",
+    "category": "speech",
+    "description": "Maintained fork of the Coqui TTS toolkit for text-to-speech.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "audacity/audacity",
+    "category": "audio",
+    "description": "Well-known open-source audio editor and recorder.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Ardour/ardour",
+    "category": "audio",
+    "description": "Audio recording, editing and mixing application. GitHub mirror of the source.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "LMMS/lmms",
+    "category": "audio",
+    "description": "Cross-platform music production software for making your own tracks.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-27"
+  },
+  {
+    "repo": "k4yt3x/video2x",
+    "category": "enhance",
+    "description": "Machine-learning video upscaling and frame interpolation. AGPL-3.0.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-07"
+  },
+  {
+    "repo": "AaronFeng753/Waifu2x-Extension-GUI",
+    "category": "enhance",
+    "description": "GUI for upscaling video, images and GIFs, and for frame interpolation.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "nihui/waifu2x-ncnn-vulkan",
+    "category": "enhance",
+    "description": "waifu2x upscaler that runs on most GPUs through Vulkan. Mainly for images and art.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-13"
+  },
+  {
+    "repo": "upscayl/upscayl",
+    "category": "enhance",
+    "description": "Free AI image upscaler for Linux, Mac and Windows. Images only, not video.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "nadermx/backgroundremover",
+    "category": "enhance",
+    "description": "Remove the background from images and video with a command line tool.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-10"
+  },
+  {
+    "repo": "facebookresearch/sam2",
+    "category": "enhance",
+    "description": "Meta's Segment Anything Model 2. Cuts out objects in video for masks and rotoscoping.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-30"
+  },
+  {
+    "repo": "Breakthrough/PySceneDetect",
+    "category": "enhance",
+    "description": "Finds scene cuts in video. Handy for splitting footage into shots.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "AcademySoftwareFoundation/OpenColorIO",
+    "category": "enhance",
+    "description": "Color management framework used in film and VFX work.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-01"
+  },
+  {
+    "repo": "FFmpeg/FFmpeg",
+    "category": "tools",
+    "description": "The core tool behind most video software. GitHub mirror of the official repo.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "HandBrake/HandBrake",
+    "category": "tools",
+    "description": "Video transcoder with presets for web, phone and archive.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "paulpacifico/shutter-encoder",
+    "category": "tools",
+    "description": "Desktop encoder and compressor built on FFmpeg.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-28"
+  },
+  {
+    "repo": "jeanslack/Videomass",
+    "category": "tools",
+    "description": "GUI for FFmpeg with presets and batch jobs.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "yt-dlp/yt-dlp",
+    "category": "tools",
+    "description": "Command-line downloader for video and audio from many sites. Only download what you have the right to use.",
+    "license": "Unlicense",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "PyAV-Org/PyAV",
+    "category": "tools",
+    "description": "Python bindings for FFmpeg's libraries.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mltframework/mlt",
+    "category": "tools",
+    "description": "Multimedia framework that powers open editors such as Kdenlive and Flowblade.",
+    "license": "LGPL-2.1",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "GStreamer/gstreamer",
+    "category": "tools",
+    "description": "Pipeline-based multimedia framework. GitHub mirror.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "obsproject/obs-studio",
+    "category": "screen",
+    "description": "Recording and live streaming. The standard free tool for screen capture.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "CapSoftware/Cap",
+    "category": "screen",
+    "description": "Open-source screen recorder with sharing (Loom alternative).",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "alyssaxuu/screenity",
+    "category": "screen",
+    "description": "Free screen recorder as a browser extension, no time limits.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "ShareX/ShareX",
+    "category": "screen",
+    "description": "Windows tool for screenshots and screen recording.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "blender/blender",
+    "category": "vfx",
+    "description": "3D, animation, compositing and a built-in video sequencer. Official mirror.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "NatronGitHub/Natron",
+    "category": "vfx",
+    "description": "Node-based compositing software, like After Effects or Nuke in spirit.",
+    "license": "GPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-24"
+  },
+  {
+    "repo": "storytold/effectcraft",
+    "category": "vfx",
+    "description": "Motion graphics and compositing tool written in Rust.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "juliangarnier/anime",
+    "category": "anim",
+    "description": "Lightweight JavaScript animation engine.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-21"
+  },
+  {
+    "repo": "motiondivision/motion",
+    "category": "anim",
+    "description": "Animation library for React and JavaScript (formerly Framer Motion).",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "mojs/mojs",
+    "category": "anim",
+    "description": "Motion graphics toolbelt for the web.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-30"
+  },
+  {
+    "repo": "LottieFiles/dotlottie-web",
+    "category": "anim",
+    "description": "Player for Lottie and dotLottie animations on the web.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "greensock/GSAP",
+    "category": "anim",
+    "description": "Widely used JavaScript animation platform. Free under GSAP's own Standard License, not an open-source license.",
+    "license": "GSAP Standard License",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-13"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "category": "gen",
+    "description": "Node-based interface for running diffusion models, including video models.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Wan-Video/Wan2.1",
+    "category": "gen",
+    "description": "Open video generation models from Alibaba. Needs a strong GPU.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-05"
+  },
+  {
+    "repo": "Lightricks/LTX-Video",
+    "category": "gen",
+    "description": "Open video generation model from Lightricks.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-01-05"
+  },
+  {
+    "repo": "hpcaitech/Open-Sora",
+    "category": "gen",
+    "description": "Open video generation project. Needs a strong GPU.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-09"
+  },
+  {
+    "repo": "harry0703/MoneyPrinterTurbo",
+    "category": "gen",
+    "description": "Generates short videos from a topic: script, voice, footage and subtitles. Docs in Chinese and English.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "zhuyansen/awesome-claude-video-skills",
+    "category": "lists",
+    "description": "List of skills and toolkits that let coding agents make video.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Supersynergy/awesome-ai-video-editing",
+    "category": "lists",
+    "description": "Small list of AI video editing and production tools.",
+    "license": "CC0-1.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-31"
+  },
+  {
+    "repo": "krzemienski/awesome-video",
+    "category": "lists",
+    "description": "List of streaming video tools, frameworks and learning resources. Focus is streaming, not editing.",
+    "license": "CC0-1.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-20"
+  },
+  {
+    "repo": "wentianli/awesome-video-editing",
+    "category": "lists",
+    "description": "Paper list on video editing research. No license stated.",
+    "license": "none",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "showlab/Awesome-Video-Diffusion",
+    "category": "lists",
+    "description": "Research list of video generation and editing models.",
+    "license": "none",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-05"
+  }
+]

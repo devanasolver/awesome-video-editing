@@ -1,0 +1,139 @@
+{
+ "categories": [
+  {
+   "id": "edit",
+   "title": "Video editors",
+   "anchor": "video-editors",
+   "blurb": "Full editors you install and use, from classic timelines to chat-driven tools.",
+   "part": "software"
+  },
+  {
+   "id": "code",
+   "title": "Make video with code",
+   "anchor": "make-video-with-code",
+   "blurb": "Frameworks that render video from code, for repeatable and automated work.",
+   "part": "software"
+  },
+  {
+   "id": "skills",
+   "title": "Agent skills for video",
+   "anchor": "agent-skills-for-video",
+   "blurb": "SKILL.md style packs and agent toolkits for editing and making video. Read the scripts before you install.",
+   "part": "software"
+  },
+  {
+   "id": "speech",
+   "title": "Captions, transcription and voice",
+   "anchor": "captions-transcription-and-voice",
+   "blurb": "Speech to text, subtitle tools and text to speech for voice-overs.",
+   "part": "software"
+  },
+  {
+   "id": "audio",
+   "title": "Audio editing and music making",
+   "anchor": "audio-editing-and-music-making",
+   "blurb": "Edit and mix sound, or make your own tracks.",
+   "part": "software"
+  },
+  {
+   "id": "enhance",
+   "title": "Enhance, cut out and analyze footage",
+   "anchor": "enhance-cut-out-and-analyze-footage",
+   "blurb": "Upscaling, cutouts, color management and shot detection.",
+   "part": "software"
+  },
+  {
+   "id": "tools",
+   "title": "Convert, compress and process",
+   "anchor": "convert-compress-and-process",
+   "blurb": "The command-line and library layer under most video software.",
+   "part": "software"
+  },
+  {
+   "id": "screen",
+   "title": "Screen recording",
+   "anchor": "screen-recording",
+   "blurb": "Capture your screen or stream.",
+   "part": "software"
+  },
+  {
+   "id": "vfx",
+   "title": "Compositing and 3D",
+   "anchor": "compositing-and-3d",
+   "blurb": "Node compositing, 3D and effects.",
+   "part": "software"
+  },
+  {
+   "id": "anim",
+   "title": "Animation libraries",
+   "anchor": "animation-libraries",
+   "blurb": "Code libraries for animated graphics, titles and UI motion.",
+   "part": "software"
+  },
+  {
+   "id": "gen",
+   "title": "Video generation models and tools",
+   "anchor": "video-generation-models-and-tools",
+   "blurb": "Open-weights or self-hosted generators. Output quality and hardware needs vary a lot.",
+   "part": "software"
+  },
+  {
+   "id": "lists",
+   "title": "Other awesome lists",
+   "anchor": "other-awesome-lists",
+   "blurb": "Lists that cover nearby ground.",
+   "part": "software"
+  },
+  {
+   "id": "footage",
+   "title": "Stock footage and archives",
+   "anchor": "stock-footage-and-archives",
+   "blurb": "Video clips you can use in projects. Always read the license on the clip you pick.",
+   "part": "assets"
+  },
+  {
+   "id": "music",
+   "title": "Music",
+   "anchor": "music",
+   "blurb": "Background music and tracks. Some need credit in your description.",
+   "part": "assets"
+  },
+  {
+   "id": "sfx",
+   "title": "Sound effects",
+   "anchor": "sound-effects",
+   "blurb": "Whooshes, hits, ambience and recordings.",
+   "part": "assets"
+  },
+  {
+   "id": "fonts",
+   "title": "Fonts",
+   "anchor": "fonts",
+   "blurb": "Free fonts for titles and captions.",
+   "part": "assets"
+  },
+  {
+   "id": "graphics",
+   "title": "Icons, illustrations and Lottie",
+   "anchor": "icons-illustrations-and-lottie",
+   "blurb": "Vector icons, illustrations and animation files.",
+   "part": "assets"
+  },
+  {
+   "id": "textures",
+   "title": "Textures, HDRIs and 3D",
+   "anchor": "textures-hdris-and-3d",
+   "blurb": "Materials and environments for 3D and compositing work.",
+   "part": "assets"
+  },
+  {
+   "id": "templates",
+   "title": "Editing templates",
+   "anchor": "editing-templates",
+   "blurb": "Project templates for common editors.",
+   "part": "assets"
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Video Editing</h1>\n\n<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Awesome Video Editing: open-source editors, tools, agent skills and free assets\" width=\"100%\"></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-video-editing/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-video-editing\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-video-editing/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-video-editing?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://buymeacoffee.com/isaac49\"><img src=\"https://img.shields.io/badge/Buy%20me%20a%20coffee-isaac49-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black\" alt=\"Buy me a coffee\"></a>\n</p>\n\n> One library for video editing: open-source editors and tools, agent skills, and free sources for footage, music, sound effects, fonts and graphics. Every entry links to its license.\n\n**Part 1** covers software you can run yourself. **Part 2** covers assets you can put in a video. Software entries are public GitHub repos. Asset entries are websites, each with the license it states.\n\n**Rules of this list:** every repo exists, is public, is not archived and has had a commit in the last year. Every asset source is open and states how its content may be used. One plain sentence each. No copied text from other lists. Asset licenses can change and can differ per file, so read the license on the exact file before you publish. Checked 2026-10-18. See [CONTRIBUTING.md](CONTRIBUTING.md).",
+ "footer": "## Using assets safely\n\n- **CC0 or public domain:** no credit needed, use freely.\n- **CC BY:** you can use it, including commercially, but you must credit the creator.\n- **Anything with NC (non-commercial):** not for monetized videos or client work.\n- **Site licenses (Pexels, Pixabay, Mixkit and similar):** read the short license page once. Several ban reselling the file on its own or using people's likeness in sensitive ways.\n- **Logos, brands and music from real artists:** a free download does not mean you can use it. Check the terms.\n- **Keep a record:** note the source URL, license and date for every asset in a project.\n\n## How to choose software\n\n- **Check the license.** GPL tools are fine to use for your videos. Source-available tools like Remotion have size rules for companies.\n- **Start with one editor** and one tool for captions. Add more only when you hit a limit.\n- **Skills can run code.** Read the SKILL.md and any scripts before you install a skill pack.\n- **Young repos change fast.** Look at the last commit and open issues.\n- **Star counts and feature claims are the authors' own.** We did not test every tool.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words, real sources only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING."
+}

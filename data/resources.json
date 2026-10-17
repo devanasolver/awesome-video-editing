@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Pexels Videos",
+    "url": "https://www.pexels.com/videos/",
+    "category": "footage",
+    "description": "Free stock video from a community of creators.",
+    "license": "Pexels License: free to use, no attribution required",
+    "license_url": "https://www.pexels.com/license/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Pixabay Videos",
+    "url": "https://pixabay.com/videos/",
+    "category": "footage",
+    "description": "Free stock video, music and more.",
+    "license": "Pixabay Content License: free to use, no attribution required, some prohibited uses",
+    "license_url": "https://pixabay.com/service/license-summary/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Coverr",
+    "url": "https://coverr.co/",
+    "category": "footage",
+    "description": "Free stock video clips and music.",
+    "license": "Coverr license: free for commercial and non-commercial use, no attribution needed for free downloads",
+    "license_url": "https://coverr.co/license",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Mixkit Stock Video",
+    "url": "https://mixkit.co/free-stock-video/",
+    "category": "footage",
+    "description": "Free stock video clips. Mixkit has a separate license per item type, including a restricted video license, so check the one on the clip.",
+    "license": "Mixkit item licenses (video free and video restricted)",
+    "license_url": "https://mixkit.co/license/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/wiki/Main_Page",
+    "category": "footage",
+    "description": "Huge media library of freely licensed and public domain files, including video.",
+    "license": "Per file: Commons only accepts freely licensed or public domain media; some need attribution",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "NASA Images and Video",
+    "url": "https://images.nasa.gov/",
+    "category": "footage",
+    "description": "NASA's image, video and audio library.",
+    "license": "NASA guidelines: check clearances for logos, people and commercial promotion",
+    "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Library of Congress Free to Use and Reuse",
+    "url": "https://www.loc.gov/free-to-use/",
+    "category": "footage",
+    "description": "Curated sets of rights-free items from the Library's collections. Mostly images, some audio and video.",
+    "license": "Library of Congress: rights-free sets",
+    "license_url": "https://www.loc.gov/free-to-use/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Internet Archive Moving Images",
+    "url": "https://archive.org/details/movies",
+    "category": "footage",
+    "description": "Large archive of films and video, including public domain material.",
+    "license": "Varies by item: read the rights on each item page",
+    "license_url": "https://archive.org/about/terms.php",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Openverse",
+    "url": "https://openverse.org/",
+    "category": "footage",
+    "description": "Search engine for openly licensed and public domain images and audio from many sources, with one-click attribution.",
+    "license": "Per item: Creative Commons and public domain",
+    "license_url": "https://openverse.org/about",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "YouTube Audio Library",
+    "url": "https://support.google.com/youtube/answer/3376882",
+    "category": "music",
+    "description": "Royalty-free music and sound effects inside YouTube Studio. You need a YouTube account to browse it.",
+    "license": "Per track: some need credit in the video description",
+    "license_url": "https://support.google.com/youtube/answer/3376882",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Pixabay Music",
+    "url": "https://pixabay.com/music/",
+    "category": "music",
+    "description": "Free music tracks from the Pixabay community.",
+    "license": "Pixabay Content License",
+    "license_url": "https://pixabay.com/service/license-summary/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Mixkit Free Music",
+    "url": "https://mixkit.co/free-stock-music/",
+    "category": "music",
+    "description": "Free music tracks under the Mixkit Stock Music license.",
+    "license": "Mixkit Stock Music Free License",
+    "license_url": "https://mixkit.co/license/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Free Music Archive",
+    "url": "https://freemusicarchive.org/",
+    "category": "music",
+    "description": "Music shared under Creative Commons licenses. Check each track's license for attribution and commercial use.",
+    "license": "Per track: Creative Commons",
+    "license_url": "https://freemusicarchive.org/about",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Incompetech",
+    "url": "https://incompetech.com/music/royalty-free/music.html",
+    "category": "music",
+    "description": "Royalty-free music by Kevin MacLeod. Read the terms on the site, which may require credit.",
+    "license": "See the site's licensing terms",
+    "license_url": "https://incompetech.com/music/royalty-free/music.html",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "ccMixter",
+    "url": "https://www.ccmixter.org/",
+    "category": "music",
+    "description": "Remix community with music you can reuse under Creative Commons. Credit is asked.",
+    "license": "Per track: Creative Commons, credit required",
+    "license_url": "https://www.ccmixter.org/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Musopen",
+    "url": "https://musopen.org/",
+    "category": "music",
+    "description": "Classical recordings and sheet music free of copyright restrictions.",
+    "license": "Public domain recordings, per Musopen",
+    "license_url": "https://musopen.org/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Freesound",
+    "url": "https://freesound.org/",
+    "category": "sfx",
+    "description": "Community database of sound effects and recordings.",
+    "license": "Per sound: Creative Commons licenses, some need attribution",
+    "license_url": "https://freesound.org/help/faq/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Sonniss GameAudioGDC",
+    "url": "https://sonniss.com/gameaudiogdc/",
+    "category": "sfx",
+    "description": "Yearly free bundles of professional sound effects from the Game Developers Conference.",
+    "license": "Royalty free and commercially usable, per Sonniss",
+    "license_url": "https://sonniss.com/gameaudiogdc/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Mixkit Sound Effects",
+    "url": "https://mixkit.co/free-sound-effects/",
+    "category": "sfx",
+    "description": "Free sound effects under the Mixkit Sound Effects license.",
+    "license": "Mixkit Sound Effects Free License",
+    "license_url": "https://mixkit.co/license/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Kenney Assets",
+    "url": "https://kenney.nl/assets",
+    "category": "sfx",
+    "description": "Free game asset packs: graphics, 3D models and more.",
+    "license": "CC0 (public domain), attribution not required",
+    "license_url": "https://kenney.nl/support",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "OpenGameArt",
+    "url": "https://opengameart.org/",
+    "category": "sfx",
+    "description": "Community library of art and audio for games. Licenses differ per upload.",
+    "license": "Per item: check each license",
+    "license_url": "https://opengameart.org/content/faq",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "ZapSplat",
+    "url": "https://www.zapsplat.com/",
+    "category": "sfx",
+    "description": "Free sound effects and music. Free accounts must credit ZapSplat.",
+    "license": "ZapSplat Standard License: attribution required for free members",
+    "license_url": "https://www.zapsplat.com/license-type/standard-license/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "BBC Sound Effects",
+    "url": "https://sound-effects.bbcrewind.co.uk/",
+    "category": "sfx",
+    "description": "Large BBC archive of sound effects. Non-commercial use only under the BBC's terms, so not for monetized videos.",
+    "license": "BBC licence: non-commercial, personal or research use",
+    "license_url": "https://sound-effects.bbcrewind.co.uk/licensing",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com/",
+    "category": "fonts",
+    "description": "Open-source fonts, free for commercial use.",
+    "license": "Mostly SIL Open Font License; see each family",
+    "license_url": "https://developers.google.com/fonts/faq",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Fontshare",
+    "url": "https://www.fontshare.com/",
+    "category": "fonts",
+    "description": "Free fonts. Read their license page before commercial use.",
+    "license": "Fontshare free license, see site",
+    "license_url": "https://www.fontshare.com/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Font Squirrel",
+    "url": "https://www.fontsquirrel.com/",
+    "category": "fonts",
+    "description": "Fonts picked for free commercial use. Each font shows the uses it allows.",
+    "license": "Per font: check the license shown",
+    "license_url": "https://www.fontsquirrel.com/faq",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "The League of Moveable Type",
+    "url": "https://www.theleagueofmoveabletype.com/",
+    "category": "fonts",
+    "description": "Small catalog of free, open fonts.",
+    "license": "Free to use anywhere, per the site",
+    "license_url": "https://www.theleagueofmoveabletype.com/",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Lucide",
+    "url": "https://lucide.dev/",
+    "category": "graphics",
+    "description": "Open-source icon set.",
+    "license": "ISC",
+    "license_url": "https://lucide.dev/license",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Phosphor Icons",
+    "url": "https://phosphoricons.com/",
+    "category": "graphics",
+    "description": "Flexible open-source icon family.",
+    "license": "MIT",
+    "license_url": "https://github.com/phosphor-icons/core",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Material Design Icons",
+    "url": "https://github.com/google/material-design-icons",
+    "category": "graphics",
+    "description": "Google's icon set.",
+    "license": "Apache-2.0",
+    "license_url": "https://github.com/google/material-design-icons",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Simple Icons",
+    "url": "https://simpleicons.org/",
+    "category": "graphics",
+    "description": "SVG icons for popular brands. The icons are CC0. Check each brand's own guidelines before using its logo.",
+    "license": "CC0 (icon files)",
+    "license_url": "https://github.com/simple-icons/simple-icons",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "unDraw",
+    "url": "https://undraw.co/illustrations",
+    "category": "graphics",
+    "description": "Open-source style illustrations you can recolor.",
+    "license": "unDraw license: free for commercial use, no attribution",
+    "license_url": "https://undraw.co/license",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "LottieFiles Free Animations",
+    "url": "https://lottiefiles.com/free-animations",
+    "category": "graphics",
+    "description": "Free Lottie animations.",
+    "license": "Lottie Simple License, attribution encouraged",
+    "license_url": "https://lottiefiles.com/page/license",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Poly Haven",
+    "url": "https://polyhaven.com/",
+    "category": "textures",
+    "description": "HDRIs, textures and 3D models.",
+    "license": "CC0",
+    "license_url": "https://polyhaven.com/license",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "ambientCG",
+    "url": "https://ambientcg.com/",
+    "category": "textures",
+    "description": "PBR materials, HDRIs and 3D models.",
+    "license": "CC0",
+    "license_url": "https://ambientcg.com/license",
+    "verified": "2026-10-18"
+  },
+  {
+    "name": "Mixkit Video Templates",
+    "url": "https://mixkit.co/free-video-templates/",
+    "category": "templates",
+    "description": "Free editing templates for Premiere Pro, DaVinci Resolve, Final Cut Pro and After Effects.",
+    "license": "Mixkit Video Templates Free License",
+    "license_url": "https://mixkit.co/license/",
+    "verified": "2026-10-18"
+  }
+]
