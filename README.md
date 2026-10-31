@@ -151,6 +151,7 @@ The command-line and library layer under most video software.
 - [mltframework/mlt](https://github.com/mltframework/mlt) ![stars](https://img.shields.io/github/stars/mltframework/mlt?style=flat&label=%E2%98%85) - Multimedia framework that powers open editors such as Kdenlive and Flowblade. _(LGPL-2.1)_
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) ![stars](https://img.shields.io/github/stars/paulpacifico/shutter-encoder?style=flat&label=%E2%98%85) - Desktop encoder and compressor built on FFmpeg. _(GPL-3.0)_
 - [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV) ![stars](https://img.shields.io/github/stars/PyAV-Org/PyAV?style=flat&label=%E2%98%85) - Python bindings for FFmpeg's libraries. _(BSD-3-Clause)_
+- [szj2ys/video-frame-extraction-lab](https://github.com/szj2ys/video-frame-extraction-lab) ![stars](https://img.shields.io/github/stars/szj2ys/video-frame-extraction-lab?style=flat&label=%E2%98%85) - Reproduce final-frame timing with synthetic clips and FFmpeg checks before choosing a still (by the author). _(MIT)_
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ![stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat&label=%E2%98%85) - Command-line downloader for video and audio from many sites. Only download what you have the right to use. _(Unlicense)_
 
 ## Screen recording

@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add the Video frame timing lab to processing tools and preserve the existing sponsor footer when rebuilding the README.
+
 ## 2026-10-18
 
 - First version: 86 verified repos in 12 categories and 36 free asset sources in 7 categories.
