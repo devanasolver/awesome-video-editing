@@ -686,5 +686,13 @@
     "license": "none",
     "verified": "2026-10-18",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "ABO3SKRALMASAOODI/valmera-mcp",
+    "category": "skills",
+    "description": "Three agent skills for editing recordings, making shorts and preparing website demos through Valmera's hosted MCP connector; requires a paid Valmera editing plan and an authenticated MCP client (by the author).",
+    "license": "MIT",
+    "verified": "2026-11-07",
+    "last_commit": "2026-11-07"
   }
 ]
