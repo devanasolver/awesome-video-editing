@@ -91,6 +91,7 @@ Frameworks that render video from code, for repeatable and automated work.
 
 SKILL.md style packs and agent toolkits for editing and making video. Read the scripts before you install.
 
+- [ABO3SKRALMASAOODI/valmera-mcp](https://github.com/ABO3SKRALMASAOODI/valmera-mcp) ![stars](https://img.shields.io/github/stars/ABO3SKRALMASAOODI/valmera-mcp?style=flat&label=%E2%98%85) - Three agent skills for editing recordings, making shorts and preparing website demos through Valmera's hosted MCP connector; requires a paid Valmera editing plan and an authenticated MCP client (by the author). _(MIT)_
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) ![stars](https://img.shields.io/github/stars/calesthio/OpenMontage?style=flat&label=%E2%98%85) - Agentic video production system with 144 SKILL.md files and many tools. _(AGPL-3.0)_
 - [howseen-ai/claude-motion-design](https://github.com/howseen-ai/claude-motion-design) ![stars](https://img.shields.io/github/stars/howseen-ai/claude-motion-design?style=flat&label=%E2%98%85) - Skill for motion design videos in pure code: HTML, Playwright and ffmpeg. _(MIT)_
 - [kmilo93sd/agent-video-editor](https://github.com/kmilo93sd/agent-video-editor) ![stars](https://img.shields.io/github/stars/kmilo93sd/agent-video-editor?style=flat&label=%E2%98%85) - Editing judgment for agents: pacing, cuts, captions, audio, color and thumbnails. _(MIT)_

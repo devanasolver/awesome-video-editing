@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add Valmera MCP agent skills for recorded-video edits, shorts and website demos; hosted editing requires a paid plan.
+
 ## 2026-10-18
 
 - First version: 86 verified repos in 12 categories and 36 free asset sources in 7 categories.
