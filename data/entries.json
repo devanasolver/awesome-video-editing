@@ -686,5 +686,13 @@
     "license": "none",
     "verified": "2026-10-18",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "Noob-stupid/cpvidego",
+    "category": "edit",
+    "description": "Browser-only rhythm-replication editor (by the author): analyzes a reference edit cuts, BPM and beat marks, then lays your own footage on the same beat with an editable timeline. Optional AI director needs your own API key; the editor base needs a company license for teams over 3.",
+    "license": "MIT (CPvidego layer) + OpenVideo License (base)",
+    "verified": "2026-11-22",
+    "last_commit": "2026-11-22"
   }
 ]
