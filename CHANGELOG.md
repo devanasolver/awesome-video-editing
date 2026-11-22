@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add SRT Overlap Check to captions, transcription and voice.
+
 ## 2026-10-18
 
 - First version: 86 verified repos in 12 categories and 36 free asset sources in 7 categories.

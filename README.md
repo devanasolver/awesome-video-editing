@@ -110,6 +110,7 @@ Speech to text, subtitle tools and text to speech for voice-overs.
 
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) ![stars](https://img.shields.io/github/stars/ggml-org/whisper.cpp?style=flat&label=%E2%98%85) - Whisper in plain C/C++. Runs fast on CPU without Python. _(MIT)_
 - [idiap/coqui-ai-TTS](https://github.com/idiap/coqui-ai-TTS) ![stars](https://img.shields.io/github/stars/idiap/coqui-ai-TTS?style=flat&label=%E2%98%85) - Maintained fork of the Coqui TTS toolkit for text-to-speech. _(MPL-2.0)_
+- [krisco65/srt-overlap-check](https://github.com/krisco65/srt-overlap-check) ![stars](https://img.shields.io/github/stars/krisco65/srt-overlap-check?style=flat&label=%E2%98%85) - Checks adjacent cues in local SRT files and reports how many milliseconds they overlap, without changing the files (by the author). _(MIT)_
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) ![stars](https://img.shields.io/github/stars/m-bain/whisperX?style=flat&label=%E2%98%85) - Whisper with word-level timestamps and speaker labels. Good for caption timing. _(BSD-2-Clause)_
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) ![stars](https://img.shields.io/github/stars/modelscope/FunClip?style=flat&label=%E2%98%85) - Transcribes video, makes subtitles and clips by text selection. Local web UI. _(MIT)_
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) ![stars](https://img.shields.io/github/stars/OHF-Voice/piper1-gpl?style=flat&label=%E2%98%85) - Fast local neural text-to-speech engine for voice-overs. GPL. _(GPL-3.0)_

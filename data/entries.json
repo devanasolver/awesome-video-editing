@@ -360,6 +360,14 @@
     "last_commit": "2026-10-16"
   },
   {
+    "repo": "krisco65/srt-overlap-check",
+    "category": "speech",
+    "description": "Checks adjacent cues in local SRT files and reports how many milliseconds they overlap, without changing the files (by the author).",
+    "license": "MIT",
+    "verified": "2026-11-21",
+    "last_commit": "2026-11-20"
+  },
+  {
     "repo": "audacity/audacity",
     "category": "audio",
     "description": "Well-known open-source audio editor and recorder.",
