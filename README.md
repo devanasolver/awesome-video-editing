@@ -158,6 +158,7 @@ The command-line and library layer under most video software.
 Capture your screen or stream.
 
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) ![stars](https://img.shields.io/github/stars/alyssaxuu/screenity?style=flat&label=%E2%98%85) - Free screen recorder as a browser extension, no time limits. _(GPL-3.0)_
+- [ankurmans/vertov-screen-recorder](https://github.com/ankurmans/vertov-screen-recorder) ![stars](https://img.shields.io/github/stars/ankurmans/vertov-screen-recorder?style=flat&label=%E2%98%85) - Self-hostable browser recorder for screen, camera and microphone with shareable videos (by the author). _(AGPL-3.0)_
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) ![stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=flat&label=%E2%98%85) - Open-source screen recorder with sharing (Loom alternative). _(check repo)_
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) ![stars](https://img.shields.io/github/stars/obsproject/obs-studio?style=flat&label=%E2%98%85) - Recording and live streaming. The standard free tool for screen capture. _(GPL-2.0)_
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) ![stars](https://img.shields.io/github/stars/ShareX/ShareX?style=flat&label=%E2%98%85) - Windows tool for screenshots and screen recording. _(GPL-3.0)_
