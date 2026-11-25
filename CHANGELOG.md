@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added Orkas under Video editors for its built-in VideoStudio specialist.
+
 ## 2026-10-18
 
 - First version: 86 verified repos in 12 categories and 36 free asset sources in 7 categories.
