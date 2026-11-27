@@ -225,6 +225,7 @@ Background music and tracks. Some need credit in your description.
 - [Incompetech](https://incompetech.com/music/royalty-free/music.html) - Royalty-free music by Kevin MacLeod. Read the terms on the site, which may require credit. _License: See the site's licensing terms. [Terms](https://incompetech.com/music/royalty-free/music.html)_
 - [Mixkit Free Music](https://mixkit.co/free-stock-music/) - Free music tracks under the Mixkit Stock Music license. _License: Mixkit Stock Music Free License. [Terms](https://mixkit.co/license/)_
 - [Musopen](https://musopen.org/) - Classical recordings and sheet music free of copyright restrictions. _License: Public domain recordings, per Musopen. [Terms](https://musopen.org/)_
+- [No Kings Music](https://nokingsmusic.com/) - Browse and preview royalty-free music for video edits. Free tracks require an account to download and credit when used (by the author). _License: No Kings Music licence for finished projects. [Terms](https://nokingsmusic.com/terms-of-service/)_
 - [Pixabay Music](https://pixabay.com/music/) - Free music tracks from the Pixabay community. _License: Pixabay Content License. [Terms](https://pixabay.com/service/license-summary/)_
 - [YouTube Audio Library](https://support.google.com/youtube/answer/3376882) - Royalty-free music and sound effects inside YouTube Studio. You need a YouTube account to browse it. _License: Per track: some need credit in the video description. [Terms](https://support.google.com/youtube/answer/3376882)_
 

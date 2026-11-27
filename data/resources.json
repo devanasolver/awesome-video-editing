@@ -81,6 +81,15 @@
     "verified": "2026-10-18"
   },
   {
+    "name": "No Kings Music",
+    "url": "https://nokingsmusic.com/",
+    "category": "music",
+    "description": "Browse and preview royalty-free music for video edits. Free tracks require an account to download and credit when used (by the author).",
+    "license": "No Kings Music licence for finished projects",
+    "license_url": "https://nokingsmusic.com/terms-of-service/",
+    "verified": "2026-11-27"
+  },
+  {
     "name": "YouTube Audio Library",
     "url": "https://support.google.com/youtube/answer/3376882",
     "category": "music",
