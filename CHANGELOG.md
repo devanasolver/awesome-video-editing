@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add No Kings Music to the music asset sources.
+
 ## 2026-10-18
 
 - First version: 86 verified repos in 12 categories and 36 free asset sources in 7 categories.
