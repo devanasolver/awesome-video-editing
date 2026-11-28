@@ -686,5 +686,13 @@
     "license": "none",
     "verified": "2026-10-18",
     "last_commit": "2026-10-05"
+  },
+  {
+    "repo": "fendouai/ViralForge",
+    "category": "skills",
+    "description": "Local video structure analysis and editable project/variant exports through Skill, CLI and MCP; model generation is not fully integrated (by the author).",
+    "license": "Apache-2.0",
+    "verified": "2026-11-28",
+    "last_commit": "2026-11-23"
   }
 ]
